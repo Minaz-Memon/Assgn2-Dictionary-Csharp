@@ -1,0 +1,15 @@
+C:\Promact\Training\C-Sharp\dictionary-Assgn\obj\Debug\net6.0\dictionary-Assgn.csproj.AssemblyReference.cache
+C:\Promact\Training\C-Sharp\dictionary-Assgn\obj\Debug\net6.0\dictionary-Assgn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Promact\Training\C-Sharp\dictionary-Assgn\obj\Debug\net6.0\dictionary-Assgn.AssemblyInfoInputs.cache
+C:\Promact\Training\C-Sharp\dictionary-Assgn\obj\Debug\net6.0\dictionary-Assgn.AssemblyInfo.cs
+C:\Promact\Training\C-Sharp\dictionary-Assgn\obj\Debug\net6.0\dictionary-Assgn.csproj.CoreCompileInputs.cache
+C:\Promact\Training\C-Sharp\dictionary-Assgn\bin\Debug\net6.0\dictionary-Assgn.exe
+C:\Promact\Training\C-Sharp\dictionary-Assgn\bin\Debug\net6.0\dictionary-Assgn.deps.json
+C:\Promact\Training\C-Sharp\dictionary-Assgn\bin\Debug\net6.0\dictionary-Assgn.runtimeconfig.json
+C:\Promact\Training\C-Sharp\dictionary-Assgn\bin\Debug\net6.0\dictionary-Assgn.dll
+C:\Promact\Training\C-Sharp\dictionary-Assgn\bin\Debug\net6.0\ref\dictionary-Assgn.dll
+C:\Promact\Training\C-Sharp\dictionary-Assgn\bin\Debug\net6.0\dictionary-Assgn.pdb
+C:\Promact\Training\C-Sharp\dictionary-Assgn\obj\Debug\net6.0\dictionary-Assgn.dll
+C:\Promact\Training\C-Sharp\dictionary-Assgn\obj\Debug\net6.0\ref\dictionary-Assgn.dll
+C:\Promact\Training\C-Sharp\dictionary-Assgn\obj\Debug\net6.0\dictionary-Assgn.pdb
+C:\Promact\Training\C-Sharp\dictionary-Assgn\obj\Debug\net6.0\dictionary-Assgn.genruntimeconfig.cache
